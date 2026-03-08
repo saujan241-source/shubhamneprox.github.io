@@ -4,4 +4,6 @@
 <P>NAME SHUBHAM ACHARYA</P>
 <P>LEARNING CODING </P>
 <P>IT IS THE BEGINNER PHASE</P>
-<div>style="background-color:lightblue:padding:10 px;"</div>
+<div style="background-color: lightblue; padding: 10px;">
+This text has a background color.
+</div>
