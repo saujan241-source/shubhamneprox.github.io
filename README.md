@@ -3,4 +3,5 @@
 <P>
 <P>NAME SHUBHAM ACHARYA</P>
 <P>LEARNING CODING </P>
-<I AM TRYING THIS FOR FIRST TIME>
+<P>IT IS THE BEGINNER PHASE</P>
+<div>style=background-colour🌩️</div>
