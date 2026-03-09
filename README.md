@@ -1,4 +1,4 @@
-<HTML></HTML> 
+<HTML>
 <TITLE> NEPROX </TITLE>
 
 <P>LEARNING CODING </P>
@@ -7,3 +7,6 @@
 <OL>1</OL>
 <FONT SIZE="10" face="Arial" color="red">
 <BODY BGCOLOR="BLUE">
+Background color of this page is green.
+</BODY>
+</HTML> 
