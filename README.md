@@ -4,5 +4,4 @@
 <P>NAME SHUBHAM ACHARYA</P>
 <P>LEARNING CODING </P>
 <P>IT IS THE BEGINNer;">
-This text has a background color.
-</div>
+
