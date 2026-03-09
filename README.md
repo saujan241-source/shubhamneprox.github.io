@@ -3,7 +3,6 @@
 <P>
 <P>NAME SHUBHAM ACHARYA</P>
 <P>LEARNING CODING </P>
-<P>IT IS THE BEGINNER PHASE</P>
-<div style="background-color: lightblue; padding: 10px;">
+<P>IT IS THE BEGINNer;">
 This text has a background color.
 </div>
