@@ -77,7 +77,7 @@
 </div>
 
 <div class="footer">
-    © 2026 Messi Achievement Page | Designed by You
+    © 2026 Messi Achievement Page | Designed by neprox
 </div>
 
 </body>
